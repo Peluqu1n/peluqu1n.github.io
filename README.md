@@ -2,11 +2,14 @@
 
 Sitio estático para GitHub Pages / Cloudflare Pages.
 
-Archivos:
-- index.html
-- style.css
-- script.js
-- logo.png
-- favicon.png
+Incluye:
+- Portada streamer / CS2
+- Logo personal de Peluqu1n
+- Logo oficial de NOVA IMPERA
+- Sección de equipo
+- Clips / contenido
+- Redes sociales
+- Steam
+- Diseño responsive y favicon
 
-Para publicar en GitHub Pages: subí todos los archivos a la raíz del repositorio.
+Subí todos los archivos a la raíz del repositorio.
