@@ -1,0 +1,9 @@
+PELUQU1N - INSTALACION
+
+1. Extrae TODO el contenido del ZIP en una carpeta nueva.
+2. No separes index.html de la carpeta assets.
+3. Abre index.html con tu navegador.
+4. Para que Opera GX actualice el favicon, cierra la pestaña anterior y abre la nueva. Si sigue mostrando el icono viejo, borra la caché del navegador o prueba en una ventana privada.
+
+El favicon ahora está incluido en dos formatos: ICO (compatibilidad con navegadores) y PNG.
+La foto de perfil principal permanece integrada en el HTML.
